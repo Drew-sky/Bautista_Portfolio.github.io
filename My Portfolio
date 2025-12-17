@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Andrew Bautista | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 40px;
+    }
+    .container {
+      max-width: 800px;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    h1 { color: #333; }
+    h2 { color: #555; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm Andrew Bautista</h1>
+    <p>IT Student | Web Developer</p>
+
+    <h2>About Me</h2>
+    <p>
+      I am an IT student with experience in web development.
+      I enjoy creating websites and learning new technologies.
+    </p>
+
+    <h2>Projects</h2>
+    <ul>
+      <li>Bigo Live Top-Up Website</li>
+      <li>Gaming Credits Store</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+  </div>
+</body>
+</html>
